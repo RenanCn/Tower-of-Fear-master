@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spear
+  - Sword
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Sword
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2686521849
+    locked: 0
+  - name: foreground
+    uniqueID: 1943630273
+    locked: 0
+  - name: Spear
+    uniqueID: 3334423373
+    locked: 0
+  - name: ground
+    uniqueID: 3325399655
+    locked: 0
+  - name: item
+    uniqueID: 3261916669
+    locked: 0
+  - name: enemy
+    uniqueID: 3366405087
+    locked: 0
+  - name: player
+    uniqueID: 3009980049
+    locked: 0
